@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=S77VEN31&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" width="512px"/>
+[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=S77VEN31&icon=9&color=10)](https://visitcount.itsvg.in)
